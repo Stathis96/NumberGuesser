@@ -1,0 +1,15 @@
+C:\Users\Athi\source\repos\NumberGuesserProject\bin\Debug\net6.0\NumberGuesserProject.exe
+C:\Users\Athi\source\repos\NumberGuesserProject\bin\Debug\net6.0\NumberGuesserProject.deps.json
+C:\Users\Athi\source\repos\NumberGuesserProject\bin\Debug\net6.0\NumberGuesserProject.runtimeconfig.json
+C:\Users\Athi\source\repos\NumberGuesserProject\bin\Debug\net6.0\NumberGuesserProject.dll
+C:\Users\Athi\source\repos\NumberGuesserProject\bin\Debug\net6.0\NumberGuesserProject.pdb
+C:\Users\Athi\source\repos\NumberGuesserProject\obj\Debug\net6.0\NumberGuesserProject.csproj.AssemblyReference.cache
+C:\Users\Athi\source\repos\NumberGuesserProject\obj\Debug\net6.0\NumberGuesserProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Athi\source\repos\NumberGuesserProject\obj\Debug\net6.0\NumberGuesserProject.AssemblyInfoInputs.cache
+C:\Users\Athi\source\repos\NumberGuesserProject\obj\Debug\net6.0\NumberGuesserProject.AssemblyInfo.cs
+C:\Users\Athi\source\repos\NumberGuesserProject\obj\Debug\net6.0\NumberGuesserProject.csproj.CoreCompileInputs.cache
+C:\Users\Athi\source\repos\NumberGuesserProject\obj\Debug\net6.0\NumberGuesserProject.dll
+C:\Users\Athi\source\repos\NumberGuesserProject\obj\Debug\net6.0\refint\NumberGuesserProject.dll
+C:\Users\Athi\source\repos\NumberGuesserProject\obj\Debug\net6.0\NumberGuesserProject.pdb
+C:\Users\Athi\source\repos\NumberGuesserProject\obj\Debug\net6.0\NumberGuesserProject.genruntimeconfig.cache
+C:\Users\Athi\source\repos\NumberGuesserProject\obj\Debug\net6.0\ref\NumberGuesserProject.dll
