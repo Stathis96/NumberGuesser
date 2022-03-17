@@ -1,0 +1,15 @@
+C:\Users\Athi\source\repos\OOPConceptsChecker\bin\Debug\net6.0\OOPConceptsChecker.exe
+C:\Users\Athi\source\repos\OOPConceptsChecker\bin\Debug\net6.0\OOPConceptsChecker.deps.json
+C:\Users\Athi\source\repos\OOPConceptsChecker\bin\Debug\net6.0\OOPConceptsChecker.runtimeconfig.json
+C:\Users\Athi\source\repos\OOPConceptsChecker\bin\Debug\net6.0\OOPConceptsChecker.dll
+C:\Users\Athi\source\repos\OOPConceptsChecker\bin\Debug\net6.0\OOPConceptsChecker.pdb
+C:\Users\Athi\source\repos\OOPConceptsChecker\obj\Debug\net6.0\OOPConceptsChecker.csproj.AssemblyReference.cache
+C:\Users\Athi\source\repos\OOPConceptsChecker\obj\Debug\net6.0\OOPConceptsChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Athi\source\repos\OOPConceptsChecker\obj\Debug\net6.0\OOPConceptsChecker.AssemblyInfoInputs.cache
+C:\Users\Athi\source\repos\OOPConceptsChecker\obj\Debug\net6.0\OOPConceptsChecker.AssemblyInfo.cs
+C:\Users\Athi\source\repos\OOPConceptsChecker\obj\Debug\net6.0\OOPConceptsChecker.csproj.CoreCompileInputs.cache
+C:\Users\Athi\source\repos\OOPConceptsChecker\obj\Debug\net6.0\OOPConceptsChecker.dll
+C:\Users\Athi\source\repos\OOPConceptsChecker\obj\Debug\net6.0\refint\OOPConceptsChecker.dll
+C:\Users\Athi\source\repos\OOPConceptsChecker\obj\Debug\net6.0\OOPConceptsChecker.pdb
+C:\Users\Athi\source\repos\OOPConceptsChecker\obj\Debug\net6.0\OOPConceptsChecker.genruntimeconfig.cache
+C:\Users\Athi\source\repos\OOPConceptsChecker\obj\Debug\net6.0\ref\OOPConceptsChecker.dll
